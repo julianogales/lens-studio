@@ -1,0 +1,24 @@
+- !<AssetImportMetadata/eb3bc9a8-574c-4828-a08c-56cffcd6e742>
+  ImportedAssetIds:
+    Countdown: !<reference> 98c5602d-7e81-49d5-8b92-648e524ae1f3
+    Modules/BehaviorSupport/BehaviorEventCallbacks: !<reference> 44712281-1958-49ad-844e-3ddb4373761b
+    Modules/Event/Event: !<reference> 2dcd2314-21bd-4f5d-aa11-06f7cfe1c0d4
+    Modules/Promise/Timeout: !<reference> cc9099b1-7c9e-435a-8b5d-b584be16ed69
+    Modules/Scene/DestructionHelper: !<reference> fee75547-1f40-4b6d-ac2f-8982d5689683
+    TypeScriptAsset: !<reference> 499e259f-3e7f-41da-9592-c76061b93f9b
+    TypeScriptAsset1: !<reference> 04de4ebf-709c-4964-a229-330cbbf5f1d2
+    TypeScriptAsset2: !<reference> a38df417-38a9-401e-92fb-ee229f652a76
+    TypeScriptAsset3: !<reference> 4ca59503-e2c6-4146-bc06-be2bb8fd8117
+    TypeScriptAsset4: !<reference> 48453cbb-4af3-4830-9ad5-6b339678331c
+  ImporterName: LensCoreImporter
+  PrimaryAsset: !<reference> 98c5602d-7e81-49d5-8b92-648e524ae1f3
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/ab08531f-9e06-4fcd-85c9-2495524e1710>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000

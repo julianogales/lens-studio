@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/fe2266d6-24c9-40dd-8a96-238a18cb2300>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> d2eb2f04-950c-4d07-850c-8b86b47c7dd8
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> d2eb2f04-950c-4d07-850c-8b86b47c7dd8
+  PackageType: NotAPackage
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2b19a07c-b1a4-45bb-85b3-16ff23108620
+  ImporterSettings: !<AssetImporterSettings/80d1ea08-8012-4e23-aee6-72448ae0721e>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2b19a07c-b1a4-45bb-85b3-16ff23108620>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    frames: false
+    promptRandomizer: false
+    resetButton: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - restart: !<reference.InteractionComponent> 00000000-0000-0000-0000-000000000000
+      promptRandomizer: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      frames:
+        []
+      activeState: 0
+      useBlur: false
+      frames1:
+        []
+      frames2:
+        []
+      frames3:
+        []
+      resetButton: !<reference.InteractionComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

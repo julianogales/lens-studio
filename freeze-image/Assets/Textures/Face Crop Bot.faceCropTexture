@@ -1,0 +1,6 @@
+- !<FaceCropTexture/2a5c616b-4684-4e62-aaba-1e2ae0ce0eea>
+  PackagePath: ""
+  InputTexture: !<reference> 656e70eb-e698-43ad-ab93-7977fc0a3349
+  Scale: {x: 1.000000, y: 1.750000}
+  FaceIndex: 0
+  FaceCenterMouthWeight: -1.350000

@@ -1,0 +1,40 @@
+- !<AssetImportMetadata/5f509389-dc18-4d6d-9d45-6393276da43b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 9a0ac108-4567-465b-a91e-f823fc5afc9c
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 9a0ac108-4567-465b-a91e-f823fc5afc9c
+  PackageType: NotAPackage
+  AssetDataMap:
+    JavaScriptAsset: !<own> aa8eed14-5631-4578-b81a-c61fa2336788
+  ImporterSettings: !<AssetImporterSettings/f6516d23-0cbb-42f4-95e1-f091b9fca044>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/aa8eed14-5631-4578-b81a-c61fa2336788>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    head: false
+    tiltMaterial: false
+    transforms: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - tiltMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      head: !<reference.Head> 00000000-0000-0000-0000-000000000000
+      transforms: !<reference.ScreenTransform[]>
+        []
+  ScriptTypes:
+    -
+      {}

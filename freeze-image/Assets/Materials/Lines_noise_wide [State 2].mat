@@ -1,0 +1,90 @@
+- !<Material/514a1c31-0af9-4476-9ec8-21eea8f3d775>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 593a09e5-ff23-406e-92ef-dabb607baade
+- !<PassInfo/593a09e5-ff23-406e-92ef-dabb607baade>
+  DepthWrite: false
+  DepthTest: false
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: PremultipliedAlphaAuto
+  Properties:
+    Port_Center_N019:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Color_N005:
+      typeIdx: 5
+      value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.295872}
+    Port_Direction_N020:
+      typeIdx: 3
+      value: {x: 0.050000, y: 0.300000}
+    Port_Direction_N026:
+      typeIdx: 3
+      value: {x: -0.010000, y: -0.200000}
+    Port_Input1_N033:
+      typeIdx: 1
+      value: 0.500000
+    Port_Scale_N019:
+      typeIdx: 3
+      value: {x: 0.100000, y: 0.200000}
+    Port_Scale_N027:
+      typeIdx: 3
+      value: {x: 4.000000, y: 8.000000}
+    Port_Scale_N032:
+      typeIdx: 3
+      value: {x: 30.000000, y: 9.100000}
+    Port_Speed_N020:
+      typeIdx: 1
+      value: 0.030000
+    Port_Speed_N026:
+      typeIdx: 1
+      value: 0.300000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    PreviewNodeID:
+      typeIdx: 0
+      value: -1
+    Tweak_N1:
+      typeIdx: 9
+      value:
+        id: da1a8650-6f6f-49c9-b7c2-8f56de592ab9
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: MirroredRepeat
+          wrapModeV: MirroredRepeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: true
+    Tweak_N1BorderColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Tweak_N1Dims:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Tweak_N1Transform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    Tweak_N1UvMinMax:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    overrideTimeElapsed:
+      typeIdx: 1
+      value: 0.000000
+    overrideTimeEnabled:
+      typeIdx: 0
+      value: 0
+  Pass: !<reference> 2e0b5817-18b2-4adf-a197-4a595ceb0484
+  RTCaster: false
+  RTReceiver: false

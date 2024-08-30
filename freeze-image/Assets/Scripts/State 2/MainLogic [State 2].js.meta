@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/d50597c3-fa27-464f-8aa3-8b1e1888c1d7>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 7daff379-7b17-4967-a4f9-044c239d6bf2
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 7daff379-7b17-4967-a4f9-044c239d6bf2
+  PackageType: NotAPackage
+  AssetDataMap:
+    JavaScriptAsset: !<own> f53630f2-2f7e-443e-9cfd-cabfa53e1782
+  ImporterSettings: !<AssetImporterSettings/5884a0c5-5541-4f8a-9e66-6df0ec3a1081>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CannotBeUnpacked
+  DependentFiles:
+    []
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f53630f2-2f7e-443e-9cfd-cabfa53e1782>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    prompts: false
+    rollCount: false
+    rollDuration: false
+    textSet: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - debugMode: false
+      rollDuration: !<float> 0.000000
+      rollCount: 0
+      easingFunction: Quadratic
+      easingType: Out
+      textSet: !<reference.Text[]>
+        []
+      prompts: !<string[]>
+        []
+  ScriptTypes:
+    -
+      {}
