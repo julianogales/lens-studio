@@ -1,0 +1,99 @@
+- !<AssetImportMetadata/10c9cefb-bea1-4106-95c3-6b3b909fb6fd>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 20469489-a28d-447b-aba2-aa9788dedcf0
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 20469489-a28d-447b-aba2-aa9788dedcf0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 10dce74c-8d36-42fe-8d9c-d6f8c1aeda1c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/d7ec1712-345d-41a5-a30a-e45a575bdf55>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/10dce74c-8d36-42fe-8d9c-d6f8c1aeda1c>
+  InputLines:
+    - // @input bool suppressScriptErrors
+    - /*
+    - "@typedef EventHandler"
+    - '@property {string} kind = "Behavior Custom Trigger" {"widget":"combobox", "values":[{"label":"Behavior Custom Trigger", "value":"Behavior Custom Trigger"}, {"label":"Behavior Script", "value":"Behavior Script"}, {"label":"Script method", "value":"Script method"}]}'
+    - '@property {string} customTrigger {"showIf":"kind", "showIfValue":"Behavior Custom Trigger"}'
+    - '@property {Component.ScriptComponent} behaviorScript {"showIf":"kind", "showIfValue":"Behavior Script"}'
+    - '@property {Component.ScriptComponent} script {"showIf":"kind", "showIfValue":"Script method"}'
+    - '@property {string} methodName {"showIf":"kind", "showIfValue":"Script method"}'
+    - '@property {bool} onApi {"showIf":"kind", "showIfValue":"Script method"}'
+    - "*/"
+    - "// @input EventHandler[] onIntroShown"
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"For scripts: called with parameter: QuizData"}'
+    - "// @input EventHandler[] onQuizDataAvailable"
+    - '// @ui {"widget":"separator"}'
+    - "// @input EventHandler[] onIntroHidden"
+    - '// @ui {"widget":"separator"}'
+    - "// @input EventHandler[] onQuestionsShown"
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"For scripts: called with parameters: index of the question shown, index of the question view and a flag indicating if this is the last question"}'
+    - "// @input EventHandler[] onNextQuestion"
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"For scripts: called with parameters: was the answer correct (boolean|null), index of the selected answer, index of the question and the index of the current question view"}'
+    - "// @input EventHandler[] onAnswer"
+    - '// @ui {"widget":"separator"}'
+    - "// @input EventHandler[] onQuestionsHidden"
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"For scripts: called with parameters: index of the final result, total number of questions asked, number of answers matching the result"}'
+    - "// @input EventHandler[] onResultShown"
+    - '// @ui {"widget":"separator"}'
+    - "// @input EventHandler[] onResultHidden"
+    - '// @ui {"widget":"separator"}'
+    - "// @input EventHandler[] onReset"
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    onAnswer: false
+    onIntroHidden: false
+    onIntroShown: false
+    onNextQuestion: false
+    onQuestionsHidden: false
+    onQuestionsShown: false
+    onQuizDataAvailable: false
+    onReset: false
+    onResultHidden: false
+    onResultShown: false
+    suppressScriptErrors: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - onIntroShown:
+        []
+      onIntroHidden:
+        []
+      onQuestionsShown:
+        []
+      onNextQuestion:
+        []
+      onAnswer:
+        []
+      onQuestionsHidden:
+        []
+      onResultShown:
+        []
+      onResultHidden:
+        []
+      onReset:
+        []
+      onQuizDataAvailable:
+        []
+      suppressScriptErrors: false
+  ScriptTypes:
+    -
+      {}

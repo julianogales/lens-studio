@@ -1,0 +1,66 @@
+- !<AssetImportMetadata/e763679c-e137-4a76-967d-d757c30ae900>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> fb4f94b2-06ad-4aa5-9d15-6633cda6661d
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> fb4f94b2-06ad-4aa5-9d15-6633cda6661d
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 112f3da4-fb48-46c9-b987-08c105eb21f6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/34b4e097-014a-4ff3-8a6a-207b29f1c86f>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/112f3da4-fb48-46c9-b987-08c105eb21f6>
+  InputLines:
+    - '// @input float pickAngleDegrees = "15.0"'
+    - // @input Component.Image leftImage
+    - // @input Component.Image rightImage
+    - // @input Component.Head head
+    - '// @input int leftAnswerValue = "1"'
+    - '// @input int rightAnswerValue = "0"'
+    - '// @input float initialPickDelay = "2"'
+    - // @input Component.ScriptComponent headHint
+    - '// @ui {"widget":"group_start", "label":"Animation"}'
+    - '// @input float buttonPressDuration = "0.3"'
+    - '// @input float minOppositeOpacity = "0.5"'
+    - '// @ui {"widget":"group_end"}'
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    buttonPressDuration: false
+    head: false
+    headHint: false
+    initialPickDelay: false
+    leftAnswerValue: false
+    leftImage: false
+    minOppositeOpacity: false
+    pickAngleDegrees: false
+    rightAnswerValue: false
+    rightImage: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - pickAngleDegrees: !<float> 15.000000
+      leftImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      rightImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      head: !<reference.Head> 00000000-0000-0000-0000-000000000000
+      headHint: !<MappingBased.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      leftAnswerValue: 1
+      rightAnswerValue: 0
+      initialPickDelay: !<float> 2.000000
+      buttonPressDuration: 0.300000
+      minOppositeOpacity: 0.500000
+  ScriptTypes:
+    -
+      {}

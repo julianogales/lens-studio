@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/69433f4e-0d51-4745-b85c-7be77fa8b929>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 41fa556d-bda1-49c5-89f6-d88f53bf3009
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 41fa556d-bda1-49c5-89f6-d88f53bf3009
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 54e21d0a-a892-4a50-9cee-a7bcd69535cd
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/bd56be36-ae20-4554-89b8-d0bf81baff5c>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/54e21d0a-a892-4a50-9cee-a7bcd69535cd>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    questions: false
+    results: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - questions:
+        []
+      results:
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - /*
+    - "@typedef ImageQuestionDescription"
+    - '@property {string} question {"widget":"text_area"}'
+    - "@property {Asset.Texture[]} answers "
+    - '@property {int} correctIdx {"label":"Correct answer #"}'
+    - "*/"
+    - "// @input ImageQuestionDescription[] questions"
+    - /*
+    - "@typedef UiResultDescription"
+    - '@property {string} text {"widget":"text_area"}'
+    - "@property {int} sceneIndex "
+    - "@property {int} ceil "
+    - "*/"
+    - "// @input UiResultDescription[] results"

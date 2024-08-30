@@ -1,0 +1,37 @@
+- !<AssetImportMetadata/184ecf42-6e6c-4154-bc6e-51820bfa5f64>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ba81e850-5e22-4cb8-92f0-70d882169a20
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ba81e850-5e22-4cb8-92f0-70d882169a20
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> ce978185-812a-453b-9db6-6001c1edf424
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/71a31fc0-40a8-4a67-a982-a337c8bef6a9>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/ce978185-812a-453b-9db6-6001c1edf424>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    buttons: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - buttons: !<MappingBased.QuizButton[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input QuizButton[] buttons"

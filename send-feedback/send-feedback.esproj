@@ -1,0 +1,35 @@
+studioVersion:
+  major: 5
+  minor: 0
+  patch: 17
+  build: 24072909
+updateCheckpoint: 44
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: Horizontal
+    cameraFov: 66.517998
+    fullFrameAspect: 1.777778
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  lensName: Send Feedback
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  iconHash: 6ab8af409dd3c1ef0c9b968c236b8a64
+  fromTemplateName: Quiz
+  fromTemplateUrl: Lens Studio 5.0.14.24061804
+  activationCamera: Front
+  hasVideoPreview: true
+  sourceMapEnabled: false

@@ -1,0 +1,1195 @@
+{
+
+"images": [
+    "Head_Tilt_head_Left_Right.png"
+],
+
+"frames": [
+{
+    "name": "FACE_LPD-7_Tilt_Head_v01_001.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 3,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_002.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 97,
+        "y": 3,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_003.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 190,
+        "y": 3,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_004.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 283,
+        "y": 3,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_005.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 377,
+        "y": 3,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_006.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 470,
+        "y": 3,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_007.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 564,
+        "y": 3,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 21,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_008.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 657,
+        "y": 3,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 112,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_009.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 750,
+        "y": 3,
+        "width": 91,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 114,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_010.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 845,
+        "y": 3,
+        "width": 93,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 116,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_011.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 132,
+        "width": 94,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 117,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_012.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 101,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_013.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 200,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_014.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 200,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_015.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 299,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_016.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 398,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_017.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 497,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_018.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 596,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_019.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 695,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_020.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 794,
+        "y": 132,
+        "width": 95,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 118,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_021.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 261,
+        "width": 93,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 116,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_022.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 100,
+        "y": 261,
+        "width": 91,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 114,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_023.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 195,
+        "y": 261,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 23,
+        "top": 7,
+        "right": 112,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_024.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 288,
+        "y": 261,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 21,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_025.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 381,
+        "y": 261,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_026.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 475,
+        "y": 261,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_027.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 569,
+        "y": 261,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_028.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 663,
+        "y": 261,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_029.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 663,
+        "y": 261,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_030.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 756,
+        "y": 261,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_031.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 850,
+        "y": 261,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_032.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 390,
+        "width": 90,
+        "height": 126
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 6,
+        "right": 110,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_033.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 97,
+        "y": 390,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_034.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 190,
+        "y": 390,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 18,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_035.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 283,
+        "y": 390,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 17,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_036.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 377,
+        "y": 390,
+        "width": 92,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 15,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_037.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 473,
+        "y": 390,
+        "width": 93,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 14,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_038.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 570,
+        "y": 390,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_039.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 668,
+        "y": 390,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_040.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 766,
+        "y": 390,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_041.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 864,
+        "y": 390,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_042.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 520,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_043.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 101,
+        "y": 520,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_044.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 101,
+        "y": 520,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_045.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 199,
+        "y": 520,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_046.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 297,
+        "y": 520,
+        "width": 94,
+        "height": 124
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 13,
+        "top": 8,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_047.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 395,
+        "y": 520,
+        "width": 92,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 15,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_048.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 491,
+        "y": 520,
+        "width": 91,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 16,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_049.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 586,
+        "y": 520,
+        "width": 89,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 18,
+        "top": 7,
+        "right": 107,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_050.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 679,
+        "y": 520,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 19,
+        "top": 7,
+        "right": 109,
+        "bottom": 132
+    }
+},{
+    "name": "FACE_LPD-7_Tilt_Head_v01_051.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 773,
+        "y": 520,
+        "width": 90,
+        "height": 125
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 134,
+        "height": 134
+    },
+    "clipping": {
+        "left": 20,
+        "top": 7,
+        "right": 110,
+        "bottom": 132
+    }
+}
+],
+
+"animations": {
+    "FACE_LPD-7_Tilt_Head_v01": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50] }
+},
+
+"meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "Json file for Lens Studio Framework",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:34eb07e11a305d88fdc5094bda99a8b4:b9e1f3fb4e7a21297676654b8c632c81:db5563a58a486953e4f99bf8d6dec0a4$"
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for Lens Studio"
+    }
+}

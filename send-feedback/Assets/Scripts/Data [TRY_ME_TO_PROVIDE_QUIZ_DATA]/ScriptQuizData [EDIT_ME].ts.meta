@@ -1,0 +1,38 @@
+- !<AssetImportMetadata/511b7c2e-de80-4004-b4ae-4965d9d37dbe>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 65269129-9cb2-46b8-b858-cb8fae97f3f4
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 65269129-9cb2-46b8-b858-cb8fae97f3f4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> db7c84c5-3ce1-4e7e-b9ec-4733743bf90a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/e5171f45-ed97-4845-aa5e-49919db92ae2>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/db7c84c5-3ce1-4e7e-b9ec-4733743bf90a>
+  InputLines:
+    - '// @ui {"widget":"label", "label":"This is an example of Quiz configured in script,edit the script to change the questions or results."}'
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}

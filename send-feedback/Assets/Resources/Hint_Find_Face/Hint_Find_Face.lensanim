@@ -1,0 +1,850 @@
+{
+
+"images": [
+    "Hint_Find_Face.png"
+],
+
+"frames": [
+{
+    "name": "BODY_LPD-333_Find_Face_0.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 3,
+        "width": 166,
+        "height": 155
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 15,
+        "top": 24,
+        "right": 181,
+        "bottom": 179
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_34.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 3,
+        "width": 166,
+        "height": 155
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 15,
+        "top": 24,
+        "right": 181,
+        "bottom": 179
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_35.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 3,
+        "width": 166,
+        "height": 155
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 15,
+        "top": 24,
+        "right": 181,
+        "bottom": 179
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_1.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 173,
+        "y": 3,
+        "width": 165,
+        "height": 153
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 15,
+        "top": 24,
+        "right": 180,
+        "bottom": 177
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_2.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 342,
+        "y": 3,
+        "width": 162,
+        "height": 148
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 24,
+        "right": 176,
+        "bottom": 172
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_3.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 162,
+        "width": 154,
+        "height": 141
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 24,
+        "right": 168,
+        "bottom": 165
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_4.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 161,
+        "y": 162,
+        "width": 144,
+        "height": 139
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 19,
+        "right": 158,
+        "bottom": 158
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_5.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 309,
+        "y": 162,
+        "width": 131,
+        "height": 137
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 13,
+        "right": 145,
+        "bottom": 150
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_6.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 307,
+        "width": 117,
+        "height": 135
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 9,
+        "right": 130,
+        "bottom": 144
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_7.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 124,
+        "y": 307,
+        "width": 102,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 6,
+        "right": 115,
+        "bottom": 139
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_8.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 230,
+        "y": 307,
+        "width": 89,
+        "height": 132
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 3,
+        "right": 102,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_9.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 323,
+        "y": 307,
+        "width": 81,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 12,
+        "top": 1,
+        "right": 93,
+        "bottom": 134
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_10.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 408,
+        "y": 307,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 8,
+        "top": 0,
+        "right": 85,
+        "bottom": 134
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_11.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 446,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_12.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 84,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 2,
+        "right": 78,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_25.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 84,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 2,
+        "right": 78,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_13.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 165,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 2,
+        "right": 78,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_14.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 246,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 2,
+        "right": 78,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_15.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 327,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 2,
+        "top": 2,
+        "right": 79,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_16.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 408,
+        "y": 446,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 2,
+        "top": 2,
+        "right": 79,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_17.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_18.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 84,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_19.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 165,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_20.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 246,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_21.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 327,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 3,
+        "top": 1,
+        "right": 80,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_22.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 408,
+        "y": 584,
+        "width": 77,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 2,
+        "top": 1,
+        "right": 79,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_23.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 722,
+        "width": 78,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 1,
+        "right": 79,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_24.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 85,
+        "y": 722,
+        "width": 77,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 1,
+        "top": 2,
+        "right": 78,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_26.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 166,
+        "y": 722,
+        "width": 76,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 5,
+        "top": 2,
+        "right": 81,
+        "bottom": 135
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_27.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 246,
+        "y": 722,
+        "width": 76,
+        "height": 131
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 12,
+        "top": 3,
+        "right": 88,
+        "bottom": 134
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_28.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 326,
+        "y": 722,
+        "width": 92,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 4,
+        "right": 105,
+        "bottom": 137
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_29.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 860,
+        "width": 110,
+        "height": 136
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 6,
+        "right": 123,
+        "bottom": 142
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_30.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 117,
+        "y": 860,
+        "width": 130,
+        "height": 138
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 13,
+        "top": 11,
+        "right": 143,
+        "bottom": 149
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_31.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 251,
+        "y": 860,
+        "width": 145,
+        "height": 140
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 18,
+        "right": 159,
+        "bottom": 158
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_32.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 1004,
+        "width": 158,
+        "height": 144
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 14,
+        "top": 24,
+        "right": 172,
+        "bottom": 168
+    }
+},{
+    "name": "BODY_LPD-333_Find_Face_33.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 165,
+        "y": 1004,
+        "width": 163,
+        "height": 152
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 181,
+        "height": 182
+    },
+    "clipping": {
+        "left": 15,
+        "top": 24,
+        "right": 178,
+        "bottom": 176
+    }
+}
+],
+
+"animations": {
+    "BODY_LPD-333_Find_Face": { "frames": [0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 15, 28, 29, 30, 31, 32, 33, 34, 35, 1, 2] }
+},
+
+"meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "Json file for Lens Studio Framework",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:34eb07e11a305d88fdc5094bda99a8b4:b9e1f3fb4e7a21297676654b8c632c81:db5563a58a486953e4f99bf8d6dec0a4$"
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for Lens Studio"
+    }
+}

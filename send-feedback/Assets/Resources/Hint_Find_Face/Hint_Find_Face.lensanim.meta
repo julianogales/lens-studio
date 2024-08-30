@@ -1,0 +1,29 @@
+- !<AssetImportMetadata/9baf62b3-d7a9-459a-9998-dab1b88f137b>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 51a32420-0ce1-439e-bdcd-7e8c96b8c2a8
+    Hint_Find_Face.png: !<reference> dca7959d-54ff-4580-aa69-89e0702d8015
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 51a32420-0ce1-439e-bdcd-7e8c96b8c2a8
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  AssetDataMap:
+    AnimatedTexture: !<own> 769cec39-6830-46ea-bd9c-b65a3ca17ebf
+  DependentFiles:
+    - Hint_Find_Face.png
+  ImporterSettings: !<AssetImporterSettings/0541d42a-cac5-4d88-806a-fea2c90fdf08>
+    {}
+  CompressionSettings: !<SingleCompressionSettings/41423bb4-491f-45cf-aa8c-222b74c36ab5>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AnimatedTextureData/769cec39-6830-46ea-bd9c-b65a3ca17ebf>
+  AutoPlay: false
+  Reversed: false
+  PingPong: false
+  CurrentSequence: BODY_LPD-333_Find_Face
+  KeyFramesData:
+    BODY_LPD-333_Find_Face:
+      - time: 0.000000
+        value: 0
+      - time: 3.000000
+        value: 36

@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/41d55043-ece4-4b58-b053-10cec362a25c>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f4789848-164e-420c-ba8e-d03927262cb0
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f4789848-164e-420c-ba8e-d03927262cb0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 12827056-9027-4755-a602-70232ec9f2f8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/ea87fc09-3462-4c1a-8d08-d170c0d81efd>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/12827056-9027-4755-a602-70232ec9f2f8>
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Aim for 3-10 questions per round"}'
+    - '// @input int questionsPerRound = "5"'
+    - // @input Component.ScriptComponent decorationsController
+    - '// @input bool autonumerate {"hint":"Prepend a line with an index of current question and a total number of questions"}'
+    - // @input SceneObject questionParent
+    - // @input Asset.ObjectPrefab questionPrefab
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    autonumerate: false
+    decorationsController: false
+    questionParent: false
+    questionPrefab: false
+    questionsPerRound: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - decorationsController: !<MappingBased.StageController> 00000000-0000-0000-0000-000000000000
+      autonumerate: true
+      questionParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      questionPrefab: !<reference.ObjectPrefab> a3020ae3-8280-4f88-a92c-909e9d16a7e7
+      questionsPerRound: 5
+  ScriptTypes:
+    -
+      {}

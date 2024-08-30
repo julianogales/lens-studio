@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/a70ad893-731e-4768-900a-3cbb9a921283>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0a49337c-20d3-4fa3-98b0-1dd03d19da46
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0a49337c-20d3-4fa3-98b0-1dd03d19da46
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 3a574529-f582-4d77-87fb-76bcc9913364
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/a9fd46d4-d634-4c04-8dff-e5b2c29f7dd0>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/3a574529-f582-4d77-87fb-76bcc9913364>
+  InputLines:
+    - '// @input float fadeInDuration = "0.3"'
+    - '// @input float fadeOutDuration = "0.3"'
+    - // @input Component.Text biggerText
+    - // @input Component.Text smallerText
+    - '// @ui {"widget":"label", "label":"Thresholds for using smaller text"}'
+    - '// @input int linesThreshold = "4"'
+    - '// @input int lineLengthThreshold = "20"'
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    biggerText: false
+    fadeInDuration: false
+    fadeOutDuration: false
+    lineLengthThreshold: false
+    linesThreshold: false
+    smallerText: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - biggerText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      smallerText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      linesThreshold: 4
+      lineLengthThreshold: 20
+      fadeInDuration: 0.300000
+      fadeOutDuration: 0.300000
+  ScriptTypes:
+    -
+      {}

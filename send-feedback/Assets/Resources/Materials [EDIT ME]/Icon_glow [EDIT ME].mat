@@ -1,0 +1,132 @@
+- !<Material/a3f13cd5-c561-4ee2-bdbc-35318658da70>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> fb7b0ca9-a989-4d41-a774-61533249b3a9
+- !<PassInfo/fb7b0ca9-a989-4d41-a774-61533249b3a9>
+  DepthWrite: false
+  DepthTest: false
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Screen
+  Properties:
+    Port_Center_N015:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Center_N016:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Center_N017:
+      typeIdx: 3
+      value: {x: 0.000000, y: 0.000000}
+    Port_Center_N034:
+      typeIdx: 3
+      value: {x: 0.000000, y: 0.000000}
+    Port_Direction_N014:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Import_N008:
+      typeIdx: 5
+      value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    Port_Import_N009:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Port_Import_N028:
+      typeIdx: 1
+      value: 0.400000
+    Port_Import_N030:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_Import_N032:
+      typeIdx: 1
+      value: 0.300000
+    Port_Multiplier_N011:
+      typeIdx: 1
+      value: 50.000000
+    Port_RangeMaxA_N007:
+      typeIdx: 1
+      value: 1.000000
+    Port_RangeMaxB_N007:
+      typeIdx: 1
+      value: 1.000000
+    Port_RangeMinA_N007:
+      typeIdx: 1
+      value: 0.000000
+    Port_RangeMinB_N007:
+      typeIdx: 1
+      value: -1.000000
+    Port_Rotation_N016:
+      typeIdx: 1
+      value: 32.400002
+    Port_Scale_N015:
+      typeIdx: 3
+      value: {x: -0.500000, y: 1.000000}
+    Port_Speed_N014:
+      typeIdx: 1
+      value: 0.070000
+    Port_TimeA_N023:
+      typeIdx: 1
+      value: 0.000000
+    Port_TimeB_N023:
+      typeIdx: 1
+      value: 0.000000
+    Port_TimeBias_N023:
+      typeIdx: 1
+      value: 0.160000
+    Port_TimeTransition_N023:
+      typeIdx: 1
+      value: 5.500000
+    Port_ValueA_N023:
+      typeIdx: 1
+      value: -0.050000
+    Port_ValueB_N023:
+      typeIdx: 1
+      value: 0.050000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    Tweak_N3:
+      typeIdx: 9
+      value:
+        id: 2cc5f686-8fe6-4d95-b1c1-df5de90bb695
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+    Tweak_N3BorderColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Tweak_N3Dims:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Tweak_N3Transform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    Tweak_N3UvMinMax:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    baseColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    overrideTimeElapsed:
+      typeIdx: 1
+      value: 0.000000
+    overrideTimeEnabled:
+      typeIdx: 0
+      value: 0
+  Pass: !<reference> 0c763e4d-9ccb-4284-b3ea-3bfbc9d8168f
+  RTCaster: false
+  RTReceiver: false

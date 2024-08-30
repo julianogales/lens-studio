@@ -1,0 +1,47 @@
+- !<AssetImportMetadata/669d2159-6368-48b1-9405-52de577304bb>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f54f0782-fcfa-4d8d-90d9-499fd5d3eec4
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f54f0782-fcfa-4d8d-90d9-499fd5d3eec4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    TypeScriptAsset: !<own> 92970ece-107b-48b9-a5a1-039411f8fa10
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/9d84c648-866a-4a7b-8713-94466ffa9943>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  NativePackageRoot: !<reference> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/92970ece-107b-48b9-a5a1-039411f8fa10>
+  InputLines:
+    - // @input Component.ScriptComponent decorationsController
+    - '// @input string tiebreaker = "first" {"widget":"combobox", "values":[{"label":"first", "value":"first"}, {"label":"random", "value":"random"}]}'
+    - // @input SceneObject resultsParent
+    - "// @input Asset.ObjectPrefab[] resultPrefabs"
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    decorationsController: false
+    resultPrefabs: false
+    resultsParent: false
+    tiebreaker: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - decorationsController: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      tiebreaker: first
+      resultsParent: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      resultPrefabs: !<reference.ObjectPrefab[]>
+        []
+  ScriptTypes:
+    -
+      {}
