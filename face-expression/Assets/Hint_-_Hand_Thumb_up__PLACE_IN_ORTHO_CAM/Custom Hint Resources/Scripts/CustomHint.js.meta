@@ -1,0 +1,64 @@
+- !<AssetImportMetadata/5f856968-6497-4919-9d1c-398baeb8cf89>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 81f5786f-20fd-40f6-872c-99e3478f3b1e
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 81f5786f-20fd-40f6-872c-99e3478f3b1e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> bdc320c8-671f-48f4-860f-b8469c3a1d36
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/86edf50f-b32b-49e7-b815-dd51abb3355c>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/bdc320c8-671f-48f4-860f-b8469c3a1d36>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    advanced: false
+    appearDelay: false
+    appearDuration: false
+    camera: false
+    disableHiding: false
+    disappearDuration: false
+    hideIfCapture: false
+    hideOnCamSwitch: false
+    hintType: false
+    image: false
+    mesh: false
+    repeatCount: false
+    screenDuration: false
+    showOnce: false
+    text: false
+    tweenPrintDebugLog: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - hintType: image
+      text: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      mesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      camera: 0
+      appearDelay: !<float> 0.000000
+      appearDuration: 0.800000
+      screenDuration: !<float> 2.000000
+      disappearDuration: 0.800000
+      repeatCount: 3
+      advanced: false
+      tweenPrintDebugLog: false
+      disableHiding: false
+      showOnce: false
+      hideIfCapture: true
+      hideOnCamSwitch: true
+  ScriptTypes:
+    -
+      {}

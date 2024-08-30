@@ -1,0 +1,35 @@
+- !<AssetImportMetadata/3b4be5a9-ec62-4e1d-8fae-864b0cf1d83e>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 2a5228a5-26c2-4be9-bc91-13715f31b820
+    hand_thumb_up.png: !<reference> 05ce15d0-12b1-4f95-a485-f664c6f5fb7d
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 2a5228a5-26c2-4be9-bc91-13715f31b820
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  AssetDataMap:
+    AnimatedTexture: !<own> 968a3a03-5751-4a0e-a002-e6a088939c53
+  DependentFiles:
+    - hand_thumb_up.png
+  ImporterSettings: !<AssetImporterSettings/eabd1c5e-79e3-43e7-b855-88de022ff8cd>
+    {}
+  CompressionSettings: !<ComplexCompressionSettings/d88eb5ff-26e7-41fd-a2d7-eb4eeb436b9b>
+    Presets:
+      Performance Compression: !<SingleCompressionSettings/36c29342-1ec2-4e9b-acaa-ad73bb1cc7d4>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/c7b6859a-6cdd-421d-920e-e554c25ab29b>
+          Level: Medium
+    ExtensionMappings:
+      png: Performance Compression
+    Overrides:
+      {}
+- !<AnimatedTextureData/968a3a03-5751-4a0e-a002-e6a088939c53>
+  AutoPlay: false
+  Reversed: false
+  PingPong: false
+  CurrentSequence: LPD_99_v01
+  KeyFramesData:
+    LPD_99_v01:
+      - time: 0.000000
+        value: 0
+      - time: 2.200000
+        value: 33
