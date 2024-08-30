@@ -1,0 +1,112 @@
+- !<AssetImportMetadata/bc2dbe0c-f07f-4c39-a4a4-e4c3811bdf24>
+  ImportedAssetIds:
+    .hidden/Color - Green Gradient: !<reference> 1db744fe-5dbe-4885-b367-2dec6b142e30
+    .hidden/white: !<reference> bed5e131-72ab-4767-9a4f-cb4406ec6692
+    Materials/Color - Green Gradient: !<reference> 5f3a3f50-5fd4-4abb-94b7-3aebefc40e47
+    Materials/Color - Green Gradient|Color - Green Gradient|GraphPassInfo: !<reference> 4f6945ca-1d1d-4967-8016-e789481f0be0
+    Meshes/Tick: !<reference> 12eda319-4a6e-4a75-9d36-aea2d15b1880
+    Scene: !<reference> 38ed478e-5ac0-407d-be58-cefa688614c9
+    _3DSceneImportRoot_0|: !<reference> 09e95111-ce8d-4ef8-91ee-d2e5273a0174
+    _3DSceneImportRoot_0|_Tick_0|: !<reference> 1d3a5577-f8e7-40e6-b403-48b121cf9513
+    _3DSceneImportRoot_0|_Tick_0|_RenderMeshVisual_0|: !<reference> 135646c5-e902-41d1-b3a8-a0ff21c03653
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> 38ed478e-5ac0-407d-be58-cefa688614c9
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> c2016201-6ec0-4756-89d9-6437aba88047
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings/f9fd44e8-7ebf-435a-ad8b-81e240f40660>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategory
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings/00731ecb-58dc-4bcc-9c8b-3b4743a5013e>
+    Presets:
+      None Compression: !<SingleCompressionSettings/446d1991-c751-40ea-b678-fd0ab602908d>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/fcd1a99a-c614-40d8-aede-e7b210da5221>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/5bcfe6b2-95a0-4a82-b675-8d9ac8693470>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/548c57c3-5df3-4a73-a987-dd9f0b71d4bc>
+  PrefabRemaps:
+    []
+  Name: tick
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d21c4ad5-df8c-4483-9592-591b387afc22
+  Components:
+    []
+- !<ObjectPrefab/5a74a643-e106-455f-9847-c24961e9b71d>
+  PackagePath: ""
+  objects:
+    - !<own> 548c57c3-5df3-4a73-a987-dd9f0b71d4bc
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/82dd7245-9a29-4643-8526-27a6402a7f7d>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5f3a3f50-5fd4-4abb-94b7-3aebefc40e47
+  Mesh: !<reference> 12eda319-4a6e-4a75-9d36-aea2d15b1880
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/c2016201-6ec0-4756-89d9-6437aba88047>
+  SourceRemaps:
+    - 09e95111-ce8d-4ef8-91ee-d2e5273a0174: 548c57c3-5df3-4a73-a987-dd9f0b71d4bc
+    - 135646c5-e902-41d1-b3a8-a0ff21c03653: 82dd7245-9a29-4643-8526-27a6402a7f7d
+    - 1d3a5577-f8e7-40e6-b403-48b121cf9513: d21c4ad5-df8c-4483-9592-591b387afc22
+    - 59ad7add-c7f8-4852-b8c3-9e4ab9efd8b8: 5b777943-df6c-4be1-b37a-0218fa2c4ccf
+  SourceState: !<own> 5a74a643-e106-455f-9847-c24961e9b71d
+- !<SceneObject/d21c4ad5-df8c-4483-9592-591b387afc22>
+  PrefabRemaps:
+    []
+  Name: Tick
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 82dd7245-9a29-4643-8526-27a6402a7f7d

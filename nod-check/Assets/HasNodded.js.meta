@@ -1,0 +1,42 @@
+- !<AssetImportMetadata/ffe28bc9-2b4c-4be6-8a67-60bf4eb47d0e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 82625cb8-b897-4d2d-8575-1c2a73b6c61b
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 82625cb8-b897-4d2d-8575-1c2a73b6c61b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 84859d98-1516-4fc0-a7ad-e28c778a9b26
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/13c9532c-23e8-4ad2-bea7-23a725a29e44>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/84859d98-1516-4fc0-a7ad-e28c778a9b26>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    audioYes: false
+    fbxObject: false
+    instructions: false
+    remoteServiceModule: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - audioYes: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      fbxObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      instructions: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      apiUrl: ""
+      rSM: !<reference.RemoteServiceModule> 00000000-0000-0000-0000-000000000000
+      remoteServiceModule: !<reference.RemoteServiceModule> d0f19f72-09d6-4bd6-af1a-33e97dd4676d
+  ScriptTypes:
+    -
+      {}

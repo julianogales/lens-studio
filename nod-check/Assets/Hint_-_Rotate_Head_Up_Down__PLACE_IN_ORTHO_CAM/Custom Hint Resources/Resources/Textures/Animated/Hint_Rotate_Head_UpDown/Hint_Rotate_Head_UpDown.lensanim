@@ -1,0 +1,275 @@
+{
+
+"images": [
+    "hed_tilt_up_down_v2_grey.png"
+],
+
+"frames": [
+{
+    "name": "Head_Gray_02_00000.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 5,
+        "y": 5,
+        "width": 186,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 43,
+        "top": 0,
+        "right": 229,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00001.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 5,
+        "y": 5,
+        "width": 186,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 43,
+        "top": 0,
+        "right": 229,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00002.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 197,
+        "y": 5,
+        "width": 186,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 43,
+        "top": 0,
+        "right": 229,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00003.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 389,
+        "y": 5,
+        "width": 184,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 43,
+        "top": 0,
+        "right": 227,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00004.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 579,
+        "y": 5,
+        "width": 181,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 44,
+        "top": 0,
+        "right": 225,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00005.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 766,
+        "y": 5,
+        "width": 180,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 43,
+        "top": 0,
+        "right": 223,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00006.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 952,
+        "y": 5,
+        "width": 178,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 44,
+        "top": 0,
+        "right": 222,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00007.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 1136,
+        "y": 5,
+        "width": 178,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 44,
+        "top": 0,
+        "right": 222,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00008.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 1320,
+        "y": 5,
+        "width": 178,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 44,
+        "top": 0,
+        "right": 222,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00009.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 1504,
+        "y": 5,
+        "width": 176,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 44,
+        "top": 0,
+        "right": 220,
+        "bottom": 245
+    }
+},{
+    "name": "Head_Gray_02_00010.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 1686,
+        "y": 5,
+        "width": 174,
+        "height": 245
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 270,
+        "height": 245
+    },
+    "clipping": {
+        "left": 45,
+        "top": 0,
+        "right": 219,
+        "bottom": 245
+    }
+}
+],
+
+"animations": {
+    "Head_Gray_02": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10] }
+},
+
+"meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "Json file for Lens Studio Framework",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:34eb07e11a305d88fdc5094bda99a8b4:b9e1f3fb4e7a21297676654b8c632c81:db5563a58a486953e4f99bf8d6dec0a4$"
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for Lens Studio"
+    }
+}

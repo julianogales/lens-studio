@@ -1,0 +1,35 @@
+- !<AssetImportMetadata/16673f84-78bd-4779-a7a1-41fb71c7dae6>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 9c10d294-2271-4167-94a8-966eff1ef453
+    hed_tilt_up_down_v2_grey.png: !<reference> 3bca7ff9-17dd-4927-ae40-013d2e1ef853
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 9c10d294-2271-4167-94a8-966eff1ef453
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  AssetDataMap:
+    AnimatedTexture: !<own> 4bc3591d-1a50-46b0-8acc-f59f26f268c3
+  DependentFiles:
+    - hed_tilt_up_down_v2_grey.png
+  ImporterSettings: !<AssetImporterSettings/eaace01a-fd62-4e0a-bb65-d32ac8cea6e2>
+    {}
+  CompressionSettings: !<ComplexCompressionSettings/0ebb5ecf-dd2e-4ef3-9691-5fe90325bd0d>
+    Presets:
+      Performance Compression: !<SingleCompressionSettings/bec43898-b435-4906-9071-1c25731613f4>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/6ac898af-4e1b-4158-a8b9-d1feef1bf118>
+          Level: Medium
+    ExtensionMappings:
+      png: Performance Compression
+    Overrides:
+      {}
+- !<AnimatedTextureData/4bc3591d-1a50-46b0-8acc-f59f26f268c3>
+  AutoPlay: false
+  Reversed: false
+  PingPong: true
+  CurrentSequence: Head_Gray_02
+  KeyFramesData:
+    Head_Gray_02:
+      - time: 0.000000
+        value: 0
+      - time: 0.916667
+        value: 11
